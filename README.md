@@ -3,6 +3,15 @@ SPDX-FileCopyrightText: Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES. All 
 SPDX-License-Identifier: Apache-2.0
 -->
 
+> **SMF Works fork.** This repository is SMF Works' fork of
+> [NVIDIA/Personal-AI-Router](https://github.com/NVIDIA/Personal-AI-Router)
+> for local-mesh reference. Upstream
+> [NVIDIA/Personal-AI-Router](https://github.com/NVIDIA/Personal-AI-Router)
+> is the source of truth for releases, docs, and contributions. For SMF
+> local-mesh notes, see
+> [smfworks/spark-observatory](https://github.com/smfworks/spark-observatory)
+> (`docs/local-mesh.md` once merged, or the README Local mesh section).
+
 # NVIDIA Personal AI Router (PAIR)
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
